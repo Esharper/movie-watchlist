@@ -35,7 +35,7 @@ This is a Next.js application named Movie-Watchlist. It includes a simple home p
 
 
 
-This application is deployed on Vercel. You can view the live site at: movie-watchlist-bay.vercel.app
+This application is deployed on Vercel. You can view the live site at: movie-watchlist-two-delta.vercel.app
 
 
 
